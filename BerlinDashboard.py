@@ -260,7 +260,7 @@ st.write('---')
 
 st.write('''
     Dashboard created by [Dr Briit](https://linkedin.com/in/mrbriit), with [Streamlit](https://www.streamlit.io).
-    See the code on [GitHub](https://github.com/thecraigd/Berlin_Covid_Dashboard).
+    See the code on [GitHub](https://github.com/MrBriit/Covid-19-Dasboard-for-Berlin-City).
 
     Disclaimer: I have made every effort to ensure the accuracy and reliability of the information on this dashboard. However, the information is provided "as is" without warranty of any kind.
 ''')
